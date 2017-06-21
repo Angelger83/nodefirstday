@@ -1,0 +1,17 @@
+{
+  "name": "myfirstpro",
+  "version": "2.6.8",
+  "description": "my first node app",
+  "main": "welcome.js",
+  "scripts": {
+    "start": "node welcome.js"
+  },
+  "author": "angel",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.5",
+    "node-persist": "0.0.6",
+    "underscore": "^1.8.3",
+    "yargs": "^3.15.0"
+  }
+}

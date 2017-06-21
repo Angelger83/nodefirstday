@@ -1,0 +1,16 @@
+{
+  "name": "myfirstpro",
+  "version": "2.6.8",
+  "description": "my first node app",
+  "main": "welcome.js",
+  "scripts": {
+    "start": "node welcome.js"
+  },
+  "author": "angel",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.13.2",
+    "underscore": "^1.8.3"
+  }
+}
